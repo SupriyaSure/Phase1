@@ -1,4 +1,5 @@
-package assistedPractice;
+package p1_practice_project;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;

@@ -1,4 +1,5 @@
-package assistedPractice;
+package p1_practice_project;
+
 public class Longest_increasing_subsequence {
 
 	static int max_ref;

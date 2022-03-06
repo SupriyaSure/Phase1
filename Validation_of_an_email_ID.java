@@ -1,4 +1,4 @@
-package assistedPractice;
+package p1_practice_project;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -20,8 +20,8 @@ public class Validation_of_an_email_ID {
 		   public static void main(String[] args) {
 		       List<String> emails = new ArrayList<String>();
 		       // valid email addresses
-		       emails.add("supriya@example.com");
-		       emails.add("supriya03@example.com");
+		       emails.add("Pavithra@example.com");
+		       emails.add("Pavithra03@example.com");
 		       
 		       //invalid email addresses
 		       emails.add("name.example.com");

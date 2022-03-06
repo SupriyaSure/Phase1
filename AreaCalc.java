@@ -1,5 +1,4 @@
-package ConstructorAss2;
-
+package constructorAssng2;
 public class AreaCalc 
 {
 	double rad;
